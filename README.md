@@ -66,7 +66,7 @@ El proyecto estará dividido en tres componentes principales:
 
 1. **Unity (Cliente):** gestionará la jugabilidad, los escenarios, el combate y las interfaces.
 2. **ASP.NET Core (Backend):** gestionará las peticiones, validaciones y operaciones relacionadas con los logros.
-3. **SQLite (Base de datos):** almacenará los perfiles, logros, categorías, progresos y desbloqueos.
+3. **Mysql (Base de datos):** almacenará los perfiles, logros, categorías, progresos y desbloqueos.
 
 La comunicación entre Unity y el backend se realizará mediante peticiones HTTP a una API local.
 
