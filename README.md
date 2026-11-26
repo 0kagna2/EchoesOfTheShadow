@@ -35,7 +35,7 @@ El proyecto se desarrolla como trabajo de fin de ciclo de Desarrollo de Aplicaci
 | C# | Programación de las mecánicas |
 | Visual Studio | Entorno de desarrollo |
 | Blender | Modelado 3D |
-| SQLite | Base de datos de logros |
+| Mysql | Base de datos de logros |
 | ASP.NET Core | Desarrollo de la API local |
 | Git | Control de versiones |
 | GitHub | Alojamiento del repositorio |
